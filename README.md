@@ -30,4 +30,4 @@ and returns an instance of type `String`.
 	*In the Web Development Fellowship class at the Flatiron School there are 30 students learning Ruby from Blake Johnson.*
 
 	The returned strings must match the expected strings in the test file *exactly* in order for them to pass. 
-<a href='https://learn.co/lessons/swift-summary-function' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/swift-summary-function' title='Swift - Summary Function'>Swift - Summary Function</a> on Learn.co and start learning to code for free.</p>
